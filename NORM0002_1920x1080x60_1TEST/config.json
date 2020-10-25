@@ -9,7 +9,7 @@
   "Input": "clean_train",
   "Clean": "clean",
   "InputPrefix": "%03d.png",
-  "TrainNumber": 30,
+  "TrainNumber": 50,
   "gt": "gt",
   "gt_temp": "gt_temp",
   "TrackerGT": "tracking_gt",
