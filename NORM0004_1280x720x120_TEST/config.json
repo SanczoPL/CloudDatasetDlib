@@ -1,0 +1,27 @@
+{
+  "InputType": ".png",
+  "OutputType": ".png",
+  "Height": 1250,
+  "Width": 1650,
+  "InputPrefix": "%06d.png",
+  "clean_train": "clean_train",
+  "clean_test": "clean_test",
+
+  "gt_train": "gt_train",
+  "gt_test": "gt_test",
+ 
+  "StartFrame": 1,
+  "StopFrame": 100,
+  "StartGT": 1,
+  "StopGT": 100,
+
+  "Resize": false,
+  
+  "NoiseStart" :1,
+  "NoiseStop" : 50,
+  "NoiseDelta" : 2,
+  "ContrastStart" : 1,
+  "ContrastStop" : 99,
+  "ContrastDelta" : 3,
+  "Color" : true
+}  
